@@ -1,0 +1,9 @@
+python environment python 3.6.9
+pip install: [
+    'sqlalchemy',
+    'pandas', 
+    'numpy',
+    'pickle',
+    'sklearn',
+    'argparse',
+]
